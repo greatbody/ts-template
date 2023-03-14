@@ -18,7 +18,7 @@
 
 - [x] TypeScript
 - [x] Webpack
-- [ ] Eslint
+- [x] Eslint
 
 ---
 
@@ -30,7 +30,7 @@ Supported features:
 
 - [x] TypeScript
 - [x] Webpack
-- [ ] Eslint
+- [x] Eslint
 
 ---
 
@@ -42,7 +42,7 @@ Supported features:
 
 - [x] TypeScript
 - [x] Webpack
-- [ ] Eslint
+- [x] Eslint
 
 ---
 
@@ -54,7 +54,7 @@ Funcionalidades soportadas:
 
 - [x] TypeScript
 - [x] Webpack
-- [ ] Eslint
+- [x] Eslint
 
 ---
 
@@ -66,7 +66,7 @@ Fonctionnalités prises en charge :
 
 - [x] TypeScript
 - [x] Webpack
-- [ ] Eslint
+- [x] Eslint
 
 ---
 
@@ -78,4 +78,4 @@ Unterstützte Funktionen:
 
 - [x] TypeScript
 - [x] Webpack
-- [ ] Eslint
+- [x] Eslint
